@@ -1,0 +1,16 @@
+### DAA Assignment3 - Report and Defense (50 points)
+
+##### Problem 1 and 2 - Number of Provinces (10 points)
+...
+
+##### Problem 3 and 4 - Min Cost Spanning Tree (10 points)
+... 
+
+##### Problem 5 and 6 - Software Dependency Cycles (10 points)
+...
+
+##### Problem 7 and 8 - Course Schedule (10 points)
+...
+
+##### Problem 9 and 10 - Course Schedule II (10 points)
+...
